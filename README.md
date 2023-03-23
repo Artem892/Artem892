@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/702789/screenshots/15688888/media/e50e606f073195a091d678dce3e19066.png?compress=1&resize=400x300)
+![MasterHead]([https://cdn.dribbble.com/users/702789/screenshots/15688888/media/e50e606f073195a091d678dce3e19066.png?compress=1&resize=700x400](https://media.tenor.com/R9o9u_fcAk8AAAAM/ukrayna-ukraine-flag.gif))
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">I'm copy/paste developer))I'm from Ukraine.</h3>
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="400">
