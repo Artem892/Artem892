@@ -9,9 +9,7 @@
 
 - 🔭 It's my project **web-work**
 
-- 🌱 I’m going to learn **IOS development**
-
-- 👯 And this my project **tinews**
+- 🌱 I’m going to learn **Embedded Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Artem892](https://github.com/Artem892)
 
