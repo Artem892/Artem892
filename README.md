@@ -9,7 +9,7 @@
 
 - 🔭 It's my project **web-work**
 
-- 🌱 I’m going to learn **Embedded Development**
+- 🌱 I’m going to learn **Marketing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Artem892](https://github.com/Artem892)
 
